@@ -4,7 +4,7 @@ import mongoose from "mongoose";
 
 
 
-const url = "http://localhost:8080";
+const url = "https://relieved-rose-cowboy-boots.cyclic.app";
 const conn = mongoose.connection;
 
 let gfs, gridfsBucket;
